@@ -16,7 +16,7 @@ nav {
 }
 
 ul {
-
+    margin-left: 20px;
 
 }
 ul li {
@@ -34,4 +34,7 @@ ul li a {
     font-family: arial;
     color: black;
     padding: 0 20px;
+}
+ul li a:hover {
+    color: red;
 }
